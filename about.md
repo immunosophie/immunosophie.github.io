@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-permalink: /Über mich/
+permalink: /about/
 ---
 Hallo, ich bin Anna!
 
