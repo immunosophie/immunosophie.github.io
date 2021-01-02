@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Über mich
+permalink: /Über mich/
 ---
+Hallo, ich bin Anna!
 
-Some information about you!
+In Freiburg habe ich zuerst molekulare Medizin, dann Physik und Biophysik studiert. Dadurch habe ich mich mit vielen Naturwissenschaften genau befasst. Besonders faszinierend finde ich den menschlichen Körper und seine Funktionsweise.
 
-### More Information
+Momentan forsche ich im Rahmen meiner Doktorarbeit am Immunsystem und versuche die Frage zu beantworten, wie Immunzellen Eindringlinge genau erkennen.
 
-A place to include any other types of information that you'd like to include about yourself.
+Auf meine Blog möchte ich spannende Fragen aus dem Bereich der Naturwissenschaften beantworten - und zwar so, dass sie jeder versteht!
 
-### Contact me
+
+### Du hast eine Frage zur Wissenschaft? Dann schreib mir gerne!
+
 
 [email@domain.com](mailto:email@domain.com)
