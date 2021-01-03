@@ -15,4 +15,4 @@ Auf meine Blog möchte ich spannende Fragen aus dem Bereich der Naturwissenschaf
 ### Du hast eine Frage zur Wissenschaft? Dann schreib mir gerne!
 
 
-[email@domain.com](mailto:email@domain.com)
+[anna.erklaert.die.wissenschaft@gmail.com](mailto:anna.erklaert.die.wissenschaft@gmail.com)
