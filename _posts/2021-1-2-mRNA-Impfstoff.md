@@ -15,7 +15,7 @@ Wenn die Zelle nun den Bauplan für ein bestimmtes Protein benötigt, dann schic
 Mithilfe des mRNA-Moleküls wird im Zellinneren jetzt das gewünschte Protein hergestellt. 
 Wichtig ist, dass die mRNA nicht mehr zurück in den Zellkern gebracht werden kann – ihr fehlt die benötigte Eintrittskarte. Der Weg vom Zellkern ins Zellinnere ist also eine Einbahnstraße für mRNA: sie kann nur aus dem Kern heraus, aber nie wieder hinein. Was passiert also mit der mRNA, nachdem das Protein hergestellt wurde? Genau wie wir regelmäßig alte Schmierzettel von unserem Schreibtisch wegwerfen, macht auch die Zelle immer wieder reinen Tisch. Deswegen wird mRNA immer wieder abgebaut. Typischerweise bleibt mRNA im Inneren der Zelle nur für wenige Minuten bis wenige Tage aktiv.
 
-![image](/images/illustration_mRNA.png)
+![image](/images/illustration_mRNA.jpg)
 
 Die mRNA ist zwar in vielerlei Hinsicht ähnlich wie die DNA, so wie ein beschriebener Zettel eben einem Buch ähnelt. Sie ist mit den gleichen Buchstaben geschrieben und besteht aus einem sehr ähnlichen Material. Es gibt aber einen ganz entscheidenden Unterschied: Während DNA sehr stabil ist, besteht mRNA nur für ganz kurze Zeit. DNA wird von der Zelle geschützt und bei der Zellteilung an die Tochterzellen weitergegeben. mRNA hingegen wird innerhalb weniger Minuten bis Tage zerstört.
 
