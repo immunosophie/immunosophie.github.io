@@ -11,9 +11,8 @@ In Freiburg habe ich zuerst molekulare Medizin, dann Physik und Biophysik studie
 
 Mir ist außerdem bewusst, dass durch die Corona-Pandemie, die unsere Leben so gründlich umgekrempelt hat, viele Fragen rund um das Thema Immunsystem gerade hochaktuell sind. Deshalb werde ich immer wieder auch Artikel schreiben, in denen ich Fragen zum Corona-Virus, der Pandemie oder den Impfungen behandle. 
 
-### Du hast Fragen, Kritik oder DIE Idee für meinen nächsten Artikel? 
-### Dann schreib mir gerne!
+### Du hast Fragen, Kritik oder Anregungen? Dann schreib mir gerne!
 
 
-[immunosphie@gmail.com](mailto:immunosophie@gmail.com)
-s
+[immunosophie@gmail.com](mailto:immunosophie@gmail.com)
+
