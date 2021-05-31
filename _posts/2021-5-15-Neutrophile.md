@@ -2,11 +2,7 @@
 layout: post
 title: Die Spidermen des Immunsystems
 ---
-
 Während der lernfähige Teil unseres Immunsystems, den ich im letzten Blogartikel beschrieben habe, häufig Aufmerksamkeit bekommt, wird über unsere angeborene Immunantwort eher selten gesprochen. Völlig zu unrecht! Unsere angeborene Immunantwort kann uns effektiv vor vielen Angriffen schützen, und verschafft außerdem der adaptiven Immunabwehr die nötige Zeit, ihre Kräfte zu mobilisieren. Zu den wichtigsten Akteuren der angeborenen Immunantwort gehören die neutrophilen Granulozyten, kurz Neutrophile. Diese kaum bekannten Zellen sind nicht nur extrem erfolgreich im Kampf gegen Bakterien, sondern setzen dazu auch faszinierende Fähigkeiten ein, die an den Superhelden Spiderman erinnern.  
-
-
-
 
 Neutrophile Granulozyten machen mit etwa 50 – 80 % den größten Teil unserer weißen Blutkörperchen aus. Wenn wir uns verletzen, sendet das verletzte Gewebe Hilferufe aus, die Neutrophile anlocken. Innerhalb weniger Minuten krabbelt eine ganze Schar Neutrophiler aus den Blutgefäßen in das verletze Gewebe. Dort bilden sie die erste Verteidigungslinie unseres Körpers gegen eindringende Bakterien. Lange Zeit wurde angenommen, dass Neutrophile hauptsächlich über zwei Mechanismen zur Bekämpfung von Bakterien verfügen: Erstens können sie Bakterien aufnehmen und in ihrem Zellinneren zerstören, und zweitens können sie antibakterielle Gifte ausschütten. 
 
